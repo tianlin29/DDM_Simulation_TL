@@ -1,4 +1,4 @@
-This code is modified base on:
+AThis code is modified base on:
 
 
 # Code from Okazawa, Sha, Purcell, & Kiani (2018) Nat Com
